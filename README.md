@@ -1,3 +1,8 @@
+example : 
+npm install underscore  --registry http://registry.npmjs.org/
+
+
+
 # Code Examples for Sams Teach Yourself Node.js in 24 Hours
 
 This repository is a series of examples to support the Sam's Teach Yourself Node.js in 24 Hours book. 
